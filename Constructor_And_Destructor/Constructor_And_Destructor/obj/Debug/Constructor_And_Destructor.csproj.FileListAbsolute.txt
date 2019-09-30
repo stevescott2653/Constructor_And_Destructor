@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Constructor_And_Destructor\Constructor_And_Destructor\bin\Debug\Constructor_And_Destructor.exe.config
+D:\DEV\C#\Practice\Constructor_And_Destructor\Constructor_And_Destructor\bin\Debug\Constructor_And_Destructor.exe
+D:\DEV\C#\Practice\Constructor_And_Destructor\Constructor_And_Destructor\bin\Debug\Constructor_And_Destructor.pdb
+D:\DEV\C#\Practice\Constructor_And_Destructor\Constructor_And_Destructor\obj\Debug\Constructor_And_Destructor.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Constructor_And_Destructor\Constructor_And_Destructor\obj\Debug\Constructor_And_Destructor.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Constructor_And_Destructor\Constructor_And_Destructor\obj\Debug\Constructor_And_Destructor.exe
+D:\DEV\C#\Practice\Constructor_And_Destructor\Constructor_And_Destructor\obj\Debug\Constructor_And_Destructor.pdb
